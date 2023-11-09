@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/private/groups/brookslab/gabai/projects/Add-seq/scripts/sbatch/py/231014_mean_median_neg.py", line 23, in <module>
+    modPredict(bam = neg_bam, event = neg_evt, region = 'PHO5', 
+TypeError: modPredict() got an unexpected keyword argument 'n_read'

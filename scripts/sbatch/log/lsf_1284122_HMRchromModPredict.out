@@ -1,0 +1,361 @@
+Device type:  cuda
+Predicting on region:  chrIII:290000-299000
+Start parsing bam file to get reads aligned to the region......
+done with bam file.
+Start parsing eventalign file to map signals to the list......
+10.0  M lines have passed.
+20.0  M lines have passed.
+30.0  M lines have passed.
+40.0  M lines have passed.
+50.0  M lines have passed.
+60.0  M lines have passed.
+70.0  M lines have passed.
+80.0  M lines have passed.
+90.0  M lines have passed.
+100.0  M lines have passed.
+110.0  M lines have passed.
+15  reads left in readname list
+14  reads left in readname list
+13  reads left in readname list
+12  reads left in readname list
+11  reads left in readname list
+10  reads left in readname list
+9  reads left in readname list
+8  reads left in readname list
+7  reads left in readname list
+6  reads left in readname list
+120.0  M lines have passed.
+130.0  M lines have passed.
+140.0  M lines have passed.
+150.0  M lines have passed.
+160.0  M lines have passed.
+170.0  M lines have passed.
+180.0  M lines have passed.
+190.0  M lines have passed.
+200.0  M lines have passed.
+210.0  M lines have passed.
+220.0  M lines have passed.
+230.0  M lines have passed.
+240.0  M lines have passed.
+250.0  M lines have passed.
+260.0  M lines have passed.
+270.0  M lines have passed.
+280.0  M lines have passed.
+290.0  M lines have passed.
+300.0  M lines have passed.
+310.0  M lines have passed.
+320.0  M lines have passed.
+330.0  M lines have passed.
+340.0  M lines have passed.
+350.0  M lines have passed.
+360.0  M lines have passed.
+370.0  M lines have passed.
+380.0  M lines have passed.
+390.0  M lines have passed.
+400.0  M lines have passed.
+410.0  M lines have passed.
+420.0  M lines have passed.
+430.0  M lines have passed.
+440.0  M lines have passed.
+450.0  M lines have passed.
+460.0  M lines have passed.
+470.0  M lines have passed.
+480.0  M lines have passed.
+490.0  M lines have passed.
+500.0  M lines have passed.
+510.0  M lines have passed.
+520.0  M lines have passed.
+530.0  M lines have passed.
+540.0  M lines have passed.
+550.0  M lines have passed.
+560.0  M lines have passed.
+570.0  M lines have passed.
+580.0  M lines have passed.
+590.0  M lines have passed.
+600.0  M lines have passed.
+610.0  M lines have passed.
+620.0  M lines have passed.
+630.0  M lines have passed.
+640.0  M lines have passed.
+650.0  M lines have passed.
+660.0  M lines have passed.
+670.0  M lines have passed.
+680.0  M lines have passed.
+690.0  M lines have passed.
+700.0  M lines have passed.
+710.0  M lines have passed.
+720.0  M lines have passed.
+730.0  M lines have passed.
+740.0  M lines have passed.
+750.0  M lines have passed.
+760.0  M lines have passed.
+770.0  M lines have passed.
+780.0  M lines have passed.
+790.0  M lines have passed.
+800.0  M lines have passed.
+810.0  M lines have passed.
+820.0  M lines have passed.
+830.0  M lines have passed.
+840.0  M lines have passed.
+850.0  M lines have passed.
+860.0  M lines have passed.
+870.0  M lines have passed.
+880.0  M lines have passed.
+890.0  M lines have passed.
+900.0  M lines have passed.
+910.0  M lines have passed.
+920.0  M lines have passed.
+930.0  M lines have passed.
+940.0  M lines have passed.
+950.0  M lines have passed.
+960.0  M lines have passed.
+970.0  M lines have passed.
+980.0  M lines have passed.
+990.0  M lines have passed.
+1000.0  M lines have passed.
+1010.0  M lines have passed.
+1020.0  M lines have passed.
+1030.0  M lines have passed.
+1040.0  M lines have passed.
+1050.0  M lines have passed.
+1060.0  M lines have passed.
+1070.0  M lines have passed.
+1080.0  M lines have passed.
+1090.0  M lines have passed.
+1100.0  M lines have passed.
+1110.0  M lines have passed.
+1120.0  M lines have passed.
+1130.0  M lines have passed.
+1140.0  M lines have passed.
+1150.0  M lines have passed.
+1160.0  M lines have passed.
+1170.0  M lines have passed.
+1180.0  M lines have passed.
+1190.0  M lines have passed.
+1200.0  M lines have passed.
+1210.0  M lines have passed.
+1220.0  M lines have passed.
+1230.0  M lines have passed.
+done with reading eventalign file.
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000siganlAlign.tsv
+Start parsing sigalign file......
+Start processing  9f9ef1a2-8929-4983-8173-a7da7756315f
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  9f9ef1a2-8929-4983-8173-a7da7756315f  in  398.1777572631836 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  9da7576c-2203-4a57-a734-5e72e12475fc
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  9da7576c-2203-4a57-a734-5e72e12475fc  in  444.3862326145172 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  54b5e4ab-3d05-48b8-a4b4-0037c381acda
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Reached the end of the signal.
+Processed read  54b5e4ab-3d05-48b8-a4b4-0037c381acda  in  358.46389174461365 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  b1f60cd1-c603-45ea-8de7-b51260ea1f94
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  b1f60cd1-c603-45ea-8de7-b51260ea1f94  in  544.2572591304779 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  77022255-c7c8-49d7-b00b-7a5938d33782
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Reached the end of the signal.
+Processed read  77022255-c7c8-49d7-b00b-7a5938d33782  in  403.0837528705597 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  5eda2ba2-a94a-410b-b682-00dadc78bbc8
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  5eda2ba2-a94a-410b-b682-00dadc78bbc8  in  454.3510904312134 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  65f79b4d-1165-44b1-9c3c-034db2dfc368
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  65f79b4d-1165-44b1-9c3c-034db2dfc368  in  439.8820023536682 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  24ef0d2c-1f91-445b-8969-04e90abecf13
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  24ef0d2c-1f91-445b-8969-04e90abecf13  in  443.17613220214844 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  ca5bf6ec-c6a1-4571-aab0-ec21a0b8eefc
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  ca5bf6ec-c6a1-4571-aab0-ec21a0b8eefc  in  488.1981451511383 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  42187812-6707-4597-8af6-ecea0f41a015
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  42187812-6707-4597-8af6-ecea0f41a015  in  526.3336205482483 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231023_HMR_chrom_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Finished all analysis in  5662.928793430328 s.

@@ -1,0 +1,322 @@
+Device type: cuda
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Conv1d-1             [-1, 128, 400]             512
+   MyConv1dPadSame-2             [-1, 128, 400]               0
+       BatchNorm1d-3             [-1, 128, 400]             256
+              ReLU-4             [-1, 128, 400]               0
+            Conv1d-5             [-1, 128, 400]          49,280
+   MyConv1dPadSame-6             [-1, 128, 400]               0
+       BatchNorm1d-7             [-1, 128, 400]             256
+              ReLU-8             [-1, 128, 400]               0
+            Conv1d-9             [-1, 128, 400]          49,280
+  MyConv1dPadSame-10             [-1, 128, 400]               0
+       BasicBlock-11             [-1, 128, 400]               0
+      BatchNorm1d-12             [-1, 128, 400]             256
+             ReLU-13             [-1, 128, 400]               0
+           Conv1d-14             [-1, 128, 200]          49,280
+  MyConv1dPadSame-15             [-1, 128, 200]               0
+      BatchNorm1d-16             [-1, 128, 200]             256
+             ReLU-17             [-1, 128, 200]               0
+           Conv1d-18             [-1, 128, 200]          49,280
+  MyConv1dPadSame-19             [-1, 128, 200]               0
+        MaxPool1d-20             [-1, 128, 200]               0
+MyMaxPool1dPadSame-21             [-1, 128, 200]               0
+       BasicBlock-22             [-1, 128, 200]               0
+      BatchNorm1d-23             [-1, 128, 200]             256
+             ReLU-24             [-1, 128, 200]               0
+           Conv1d-25             [-1, 128, 200]          49,280
+  MyConv1dPadSame-26             [-1, 128, 200]               0
+      BatchNorm1d-27             [-1, 128, 200]             256
+             ReLU-28             [-1, 128, 200]               0
+           Conv1d-29             [-1, 128, 200]          49,280
+  MyConv1dPadSame-30             [-1, 128, 200]               0
+       BasicBlock-31             [-1, 128, 200]               0
+      BatchNorm1d-32             [-1, 128, 200]             256
+             ReLU-33             [-1, 128, 200]               0
+           Conv1d-34             [-1, 128, 100]          49,280
+  MyConv1dPadSame-35             [-1, 128, 100]               0
+      BatchNorm1d-36             [-1, 128, 100]             256
+             ReLU-37             [-1, 128, 100]               0
+           Conv1d-38             [-1, 128, 100]          49,280
+  MyConv1dPadSame-39             [-1, 128, 100]               0
+        MaxPool1d-40             [-1, 128, 100]               0
+MyMaxPool1dPadSame-41             [-1, 128, 100]               0
+       BasicBlock-42             [-1, 128, 100]               0
+      BatchNorm1d-43             [-1, 128, 100]             256
+             ReLU-44             [-1, 128, 100]               0
+           Conv1d-45             [-1, 256, 100]          98,560
+  MyConv1dPadSame-46             [-1, 256, 100]               0
+      BatchNorm1d-47             [-1, 256, 100]             512
+             ReLU-48             [-1, 256, 100]               0
+           Conv1d-49             [-1, 256, 100]         196,864
+  MyConv1dPadSame-50             [-1, 256, 100]               0
+       BasicBlock-51             [-1, 256, 100]               0
+      BatchNorm1d-52             [-1, 256, 100]             512
+             ReLU-53             [-1, 256, 100]               0
+           Conv1d-54              [-1, 256, 50]         196,864
+  MyConv1dPadSame-55              [-1, 256, 50]               0
+      BatchNorm1d-56              [-1, 256, 50]             512
+             ReLU-57              [-1, 256, 50]               0
+           Conv1d-58              [-1, 256, 50]         196,864
+  MyConv1dPadSame-59              [-1, 256, 50]               0
+        MaxPool1d-60              [-1, 256, 50]               0
+MyMaxPool1dPadSame-61              [-1, 256, 50]               0
+       BasicBlock-62              [-1, 256, 50]               0
+      BatchNorm1d-63              [-1, 256, 50]             512
+             ReLU-64              [-1, 256, 50]               0
+           Conv1d-65              [-1, 256, 50]         196,864
+  MyConv1dPadSame-66              [-1, 256, 50]               0
+      BatchNorm1d-67              [-1, 256, 50]             512
+             ReLU-68              [-1, 256, 50]               0
+           Conv1d-69              [-1, 256, 50]         196,864
+  MyConv1dPadSame-70              [-1, 256, 50]               0
+       BasicBlock-71              [-1, 256, 50]               0
+      BatchNorm1d-72              [-1, 256, 50]             512
+             ReLU-73              [-1, 256, 50]               0
+           Conv1d-74              [-1, 256, 25]         196,864
+  MyConv1dPadSame-75              [-1, 256, 25]               0
+      BatchNorm1d-76              [-1, 256, 25]             512
+             ReLU-77              [-1, 256, 25]               0
+           Conv1d-78              [-1, 256, 25]         196,864
+  MyConv1dPadSame-79              [-1, 256, 25]               0
+        MaxPool1d-80              [-1, 256, 25]               0
+MyMaxPool1dPadSame-81              [-1, 256, 25]               0
+       BasicBlock-82              [-1, 256, 25]               0
+      BatchNorm1d-83              [-1, 256, 25]             512
+             ReLU-84              [-1, 256, 25]               0
+           Linear-85                    [-1, 1]             257
+================================================================
+Total params: 1,878,017
+Trainable params: 1,878,017
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.00
+Forward/backward pass size (MB): 14.31
+Params size (MB): 7.16
+Estimated Total Size (MB): 21.47
+----------------------------------------------------------------
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+50000  modification scores are called for current read.
+60000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+50000  modification scores are called for current read.
+60000  modification scores are called for current read.
+70000  modification scores are called for current read.
+80000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+50000  modification scores are called for current read.
+60000  modification scores are called for current read.
+70000  modification scores are called for current read.
+80000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+50000  modification scores are called for current read.
+60000  modification scores are called for current read.
+70000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+50000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+50000  modification scores are called for current read.
+60000  modification scores are called for current read.
+70000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+50000  modification scores are called for current read.
+60000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+50000  modification scores are called for current read.
+60000  modification scores are called for current read.
+70000  modification scores are called for current read.
+80000  modification scores are called for current read.
+90000  modification scores are called for current read.
+100000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+40000  modification scores are called for current read.
+50000  modification scores are called for current read.
+60000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+30000  modification scores are called for current read.
+10000  modification scores are called for current read.
+20000  modification scores are called for current read.
+10000  modification scores are called for current read.
+Done in 11671.273 seconds.

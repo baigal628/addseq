@@ -1,0 +1,152 @@
+Device type:  cuda
+Predicting on region:  chrIII:290000-299000
+Start parsing bam file to get reads aligned to the region......
+done with bam file.
+Start parsing eventalign file to map signals to the list......
+10.0  M lines have passed.
+20.0  M lines have passed.
+30.0  M lines have passed.
+5  reads left in readname list
+40.0  M lines have passed.
+4  reads left in readname list
+3  reads left in readname list
+2  reads left in readname list
+1  reads left in readname list
+0  reads left in readname list
+done with reading eventalign file.
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231023_HMR_neg_meanScore_medianPos_chrIII:290000-299000siganlAlign.tsv
+Start parsing sigalign file......
+Start processing  60f4a56d-6ac1-4829-9c9b-30053311b104
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  60f4a56d-6ac1-4829-9c9b-30053311b104  in  636.2806587219238 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231023_HMR_neg_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  d4203696-5c77-411a-8b5a-cab042dcc8b7
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  d4203696-5c77-411a-8b5a-cab042dcc8b7  in  438.07629227638245 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231023_HMR_neg_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  6b3531f5-78aa-4ae1-90a7-48b093083dad
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  6b3531f5-78aa-4ae1-90a7-48b093083dad  in  487.8152828216553 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231023_HMR_neg_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  35794d05-adc9-4a04-a3ff-d40ce737f68a
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  35794d05-adc9-4a04-a3ff-d40ce737f68a  in  485.14350867271423 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231023_HMR_neg_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  dae0527f-dbad-44b3-9a87-654ce7cf1428
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  dae0527f-dbad-44b3-9a87-654ce7cf1428  in  459.0931022167206 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231023_HMR_neg_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Start processing  69069732-5826-43ff-a544-34a532da86c0
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Predicting at position: 6000
+Predicting at position: 6500
+Predicting at position: 7000
+Predicting at position: 7500
+Predicting at position: 8000
+Predicting at position: 8500
+Processed read  69069732-5826-43ff-a544-34a532da86c0  in  462.21484446525574 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231023_HMR_neg_meanScore_medianPos_chrIII:290000-299000modScores.tsv
+Finished all analysis in  3002.546738386154 s.

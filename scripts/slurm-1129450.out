@@ -1,0 +1,19 @@
+
+Command to create ssh tunnel:
+ssh -N -f -L 6789:phoenix-01:6789 gabai@phoenix.prism
+
+Use a Browser on your local machine to go to:
+localhost:6789  (prefix w/ https:// if using password)
+
+[W 2023-09-05 14:17:43.719 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-05 14:17:43.719 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-05 14:17:43.719 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-05 14:17:43.719 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-09-05 14:17:43.719 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-09-05 14:17:43.727 LabApp] JupyterLab extension loaded from /private/groups/brookslab/gabai/miniconda3/envs/addseq/lib/python3.9/site-packages/jupyterlab
+[I 2023-09-05 14:17:43.727 LabApp] JupyterLab application directory is /private/groups/brookslab/gabai/miniconda3/envs/addseq/share/jupyter/lab
+[I 14:17:43.731 NotebookApp] Serving notebooks from local directory: /private/groups/brookslab/gabai/projects/Add-seq/scripts
+[I 14:17:43.731 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 14:17:43.731 NotebookApp] http://phoenix-01:6789/
+[I 14:17:43.731 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+slurmstepd-phoenix-01: error: *** JOB 1129450 ON phoenix-01 CANCELLED AT 2023-09-05T21:35:44 ***

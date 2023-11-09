@@ -1,0 +1,96 @@
+Device type:  cuda
+Predicting on region:  chrXVI:66000-67550
+Start parsing bam file to get reads aligned to the region......
+done with bam file.
+Start parsing eventalign file to map signals to the list......
+10.0  M lines have passed.
+20.0  M lines have passed.
+30.0  M lines have passed.
+40.0  M lines have passed.
+50.0  M lines have passed.
+60.0  M lines have passed.
+70.0  M lines have passed.
+80.0  M lines have passed.
+90.0  M lines have passed.
+100.0  M lines have passed.
+110.0  M lines have passed.
+120.0  M lines have passed.
+130.0  M lines have passed.
+140.0  M lines have passed.
+150.0  M lines have passed.
+160.0  M lines have passed.
+170.0  M lines have passed.
+180.0  M lines have passed.
+190.0  M lines have passed.
+200.0  M lines have passed.
+210.0  M lines have passed.
+220.0  M lines have passed.
+230.0  M lines have passed.
+240.0  M lines have passed.
+250.0  M lines have passed.
+260.0  M lines have passed.
+270.0  M lines have passed.
+280.0  M lines have passed.
+290.0  M lines have passed.
+300.0  M lines have passed.
+310.0  M lines have passed.
+320.0  M lines have passed.
+330.0  M lines have passed.
+340.0  M lines have passed.
+350.0  M lines have passed.
+360.0  M lines have passed.
+370.0  M lines have passed.
+380.0  M lines have passed.
+390.0  M lines have passed.
+5  reads left in readname list
+4  reads left in readname list
+3  reads left in readname list
+2  reads left in readname list
+1  reads left in readname list
+400.0  M lines have passed.
+410.0  M lines have passed.
+done with reading eventalign file.
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_CLN2_pos_meanScore_medianPos_chrXVI:66000-67550siganlAlign.tsv
+Start parsing sigalign file......
+Start processing  f971f10f-d980-482a-9c6d-089132393fb0
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  f971f10f-d980-482a-9c6d-089132393fb0  in  107.46340656280518 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_CLN2_pos_meanScore_medianPos_chrXVI:66000-67550modScores.tsv
+Start processing  050b9202-be4b-4c43-8d43-952704c07c74
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  050b9202-be4b-4c43-8d43-952704c07c74  in  93.36152935028076 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_CLN2_pos_meanScore_medianPos_chrXVI:66000-67550modScores.tsv
+Start processing  a425f749-e531-4800-94b2-1ed3b34663c0
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  a425f749-e531-4800-94b2-1ed3b34663c0  in  103.29434156417847 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_CLN2_pos_meanScore_medianPos_chrXVI:66000-67550modScores.tsv
+Start processing  2006ea40-1f0d-46fd-bfa8-a62a33b4ad88
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  2006ea40-1f0d-46fd-bfa8-a62a33b4ad88  in  202.54012060165405 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_CLN2_pos_meanScore_medianPos_chrXVI:66000-67550modScores.tsv
+Start processing  fcaa53b3-dc59-4042-8c98-ed0934e264e9
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  fcaa53b3-dc59-4042-8c98-ed0934e264e9  in  89.28960943222046 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_CLN2_pos_meanScore_medianPos_chrXVI:66000-67550modScores.tsv
+Finished all analysis in  1119.2340834140778 s.

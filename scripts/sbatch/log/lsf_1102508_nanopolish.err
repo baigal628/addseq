@@ -1,0 +1,6 @@
+[readdb] indexing /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/unbasecalled/
+[readdb] num reads: 108470, num reads with path to fast5: 108470
+[post-run summary] total reads: 74, unparseable: 0, qc fail: 0, could not calibrate: 0, no alignment: 8, bad fast5: 0
+[post-run summary] total reads: 112, unparseable: 0, qc fail: 0, could not calibrate: 0, no alignment: 17, bad fast5: 0
+[post-run summary] total reads: 102, unparseable: 0, qc fail: 0, could not calibrate: 0, no alignment: 12, bad fast5: 0
+[post-run summary] total reads: 177, unparseable: 0, qc fail: 0, could not calibrate: 1, no alignment: 28, bad fast5: 0

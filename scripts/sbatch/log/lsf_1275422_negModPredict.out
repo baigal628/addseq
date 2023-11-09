@@ -1,0 +1,70 @@
+Device type:  cuda
+Start parsing bam file to get reads aligned to the region......
+done with bam file.
+Using user provided sigAlign file:  /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231014_PHO5_neg_meanScore_medianPos_chrII:429000-435000siganlAlign.tsv
+Start parsing sigalign file......
+Start processing  889aad13-d404-4807-b3b0-76d4c2511938
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Processed read  889aad13-d404-4807-b3b0-76d4c2511938  in  439.5361726284027 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231014_PHO5_neg_meanScore_meanPos_chrII:429000-435000modScores.tsv
+Start processing  95ee9f67-697d-470f-bad0-08cabf36d24e
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Processed read  95ee9f67-697d-470f-bad0-08cabf36d24e  in  319.77820324897766 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231014_PHO5_neg_meanScore_meanPos_chrII:429000-435000modScores.tsv
+Start processing  c47da3d0-dda0-43e7-8d33-3e6b40abdf6e
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Processed read  c47da3d0-dda0-43e7-8d33-3e6b40abdf6e  in  341.09638595581055 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231014_PHO5_neg_meanScore_meanPos_chrII:429000-435000modScores.tsv
+Start processing  9b295373-976d-47a6-b502-7fceacc561e1
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Predicting at position: 2000
+Predicting at position: 2500
+Predicting at position: 3000
+Predicting at position: 3500
+Predicting at position: 4000
+Predicting at position: 4500
+Predicting at position: 5000
+Predicting at position: 5500
+Processed read  9b295373-976d-47a6-b502-7fceacc561e1  in  362.9558081626892 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231014_PHO5_neg_meanScore_meanPos_chrII:429000-435000modScores.tsv
+Finished all analysis in  1463.5547955036163 s.

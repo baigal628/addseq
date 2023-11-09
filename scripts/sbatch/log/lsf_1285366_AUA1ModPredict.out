@@ -1,0 +1,836 @@
+Device type:  cuda
+Predicting on region:  chrVI:114000-116000
+Start parsing bam file to get reads aligned to the region......
+done with bam file.
+Start parsing eventalign file to map signals to the list......
+10.0  M lines have passed.
+20.0  M lines have passed.
+30.0  M lines have passed.
+40.0  M lines have passed.
+50.0  M lines have passed.
+60.0  M lines have passed.
+70.0  M lines have passed.
+80.0  M lines have passed.
+90.0  M lines have passed.
+100.0  M lines have passed.
+110.0  M lines have passed.
+120.0  M lines have passed.
+130.0  M lines have passed.
+140.0  M lines have passed.
+150.0  M lines have passed.
+160.0  M lines have passed.
+170.0  M lines have passed.
+180.0  M lines have passed.
+190.0  M lines have passed.
+200.0  M lines have passed.
+210.0  M lines have passed.
+220.0  M lines have passed.
+230.0  M lines have passed.
+240.0  M lines have passed.
+250.0  M lines have passed.
+260.0  M lines have passed.
+270.0  M lines have passed.
+280.0  M lines have passed.
+290.0  M lines have passed.
+300.0  M lines have passed.
+310.0  M lines have passed.
+320.0  M lines have passed.
+330.0  M lines have passed.
+340.0  M lines have passed.
+50  reads left in readname list
+49  reads left in readname list
+48  reads left in readname list
+47  reads left in readname list
+46  reads left in readname list
+45  reads left in readname list
+44  reads left in readname list
+43  reads left in readname list
+42  reads left in readname list
+41  reads left in readname list
+40  reads left in readname list
+39  reads left in readname list
+38  reads left in readname list
+37  reads left in readname list
+36  reads left in readname list
+35  reads left in readname list
+34  reads left in readname list
+33  reads left in readname list
+32  reads left in readname list
+31  reads left in readname list
+30  reads left in readname list
+29  reads left in readname list
+28  reads left in readname list
+27  reads left in readname list
+26  reads left in readname list
+25  reads left in readname list
+24  reads left in readname list
+23  reads left in readname list
+22  reads left in readname list
+21  reads left in readname list
+20  reads left in readname list
+19  reads left in readname list
+18  reads left in readname list
+17  reads left in readname list
+16  reads left in readname list
+15  reads left in readname list
+14  reads left in readname list
+13  reads left in readname list
+12  reads left in readname list
+11  reads left in readname list
+10  reads left in readname list
+9  reads left in readname list
+8  reads left in readname list
+7  reads left in readname list
+6  reads left in readname list
+5  reads left in readname list
+4  reads left in readname list
+3  reads left in readname list
+350.0  M lines have passed.
+360.0  M lines have passed.
+370.0  M lines have passed.
+380.0  M lines have passed.
+390.0  M lines have passed.
+400.0  M lines have passed.
+410.0  M lines have passed.
+420.0  M lines have passed.
+430.0  M lines have passed.
+440.0  M lines have passed.
+450.0  M lines have passed.
+460.0  M lines have passed.
+470.0  M lines have passed.
+480.0  M lines have passed.
+490.0  M lines have passed.
+500.0  M lines have passed.
+510.0  M lines have passed.
+520.0  M lines have passed.
+530.0  M lines have passed.
+540.0  M lines have passed.
+550.0  M lines have passed.
+560.0  M lines have passed.
+570.0  M lines have passed.
+580.0  M lines have passed.
+590.0  M lines have passed.
+600.0  M lines have passed.
+610.0  M lines have passed.
+620.0  M lines have passed.
+630.0  M lines have passed.
+640.0  M lines have passed.
+650.0  M lines have passed.
+660.0  M lines have passed.
+670.0  M lines have passed.
+680.0  M lines have passed.
+690.0  M lines have passed.
+700.0  M lines have passed.
+710.0  M lines have passed.
+720.0  M lines have passed.
+730.0  M lines have passed.
+740.0  M lines have passed.
+750.0  M lines have passed.
+760.0  M lines have passed.
+770.0  M lines have passed.
+780.0  M lines have passed.
+790.0  M lines have passed.
+800.0  M lines have passed.
+810.0  M lines have passed.
+820.0  M lines have passed.
+830.0  M lines have passed.
+840.0  M lines have passed.
+850.0  M lines have passed.
+860.0  M lines have passed.
+870.0  M lines have passed.
+880.0  M lines have passed.
+890.0  M lines have passed.
+900.0  M lines have passed.
+910.0  M lines have passed.
+920.0  M lines have passed.
+930.0  M lines have passed.
+940.0  M lines have passed.
+950.0  M lines have passed.
+960.0  M lines have passed.
+970.0  M lines have passed.
+980.0  M lines have passed.
+990.0  M lines have passed.
+1000.0  M lines have passed.
+1010.0  M lines have passed.
+1020.0  M lines have passed.
+1030.0  M lines have passed.
+1040.0  M lines have passed.
+1050.0  M lines have passed.
+1060.0  M lines have passed.
+1070.0  M lines have passed.
+1080.0  M lines have passed.
+1090.0  M lines have passed.
+1100.0  M lines have passed.
+1110.0  M lines have passed.
+1120.0  M lines have passed.
+1130.0  M lines have passed.
+1140.0  M lines have passed.
+1150.0  M lines have passed.
+1160.0  M lines have passed.
+1170.0  M lines have passed.
+1180.0  M lines have passed.
+1190.0  M lines have passed.
+1200.0  M lines have passed.
+1210.0  M lines have passed.
+1220.0  M lines have passed.
+1230.0  M lines have passed.
+done with reading eventalign file.
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000siganlAlign.tsv
+Start parsing sigalign file......
+Start processing  908f9524-d405-46ca-a596-c4e613de196f
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  908f9524-d405-46ca-a596-c4e613de196f  in  834.8176376819611 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  9c17f73c-0929-43d6-9925-680bb8336e3b
+Start processing  b8c85d5f-6412-4d19-a35e-5968d666ea4b
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  b8c85d5f-6412-4d19-a35e-5968d666ea4b  in  1218.7058079242706 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  c661c150-cfe9-4051-9e7a-0fdafd3c6648
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  c661c150-cfe9-4051-9e7a-0fdafd3c6648  in  932.3006565570831 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  7e999093-192e-402a-9d6c-7897fbe59a58
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  7e999093-192e-402a-9d6c-7897fbe59a58  in  799.2613899707794 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  c6860b25-f09f-4414-a55b-760d2fddfffb
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  c6860b25-f09f-4414-a55b-760d2fddfffb  in  813.3040120601654 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  310bb002-6da6-489c-82a1-ec409985fac4
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  310bb002-6da6-489c-82a1-ec409985fac4  in  813.3983180522919 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  7adc3f78-586b-4067-b5db-8bf8d7f02868
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  7adc3f78-586b-4067-b5db-8bf8d7f02868  in  797.9593534469604 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  80c0673a-a6a4-48b6-9bf9-d8105a895005
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  80c0673a-a6a4-48b6-9bf9-d8105a895005  in  735.7706048488617 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  d8161174-9ff7-45d4-89df-43c637a9d5cc
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  d8161174-9ff7-45d4-89df-43c637a9d5cc  in  734.5358550548553 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  de476561-751c-4603-aaf7-d4037d67f726
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  de476561-751c-4603-aaf7-d4037d67f726  in  728.0977063179016 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  cbbff0e5-1580-4217-9236-1969680fe2c1
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  cbbff0e5-1580-4217-9236-1969680fe2c1  in  751.2221574783325 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  c5460595-0bce-414a-98d6-42b2bf903484
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  c5460595-0bce-414a-98d6-42b2bf903484  in  755.492805480957 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  9887e5e6-46d2-4e52-8d76-7a618fbf342c
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  9887e5e6-46d2-4e52-8d76-7a618fbf342c  in  833.9474272727966 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  e4534fe0-d4e4-4f8c-85a3-46beaa3d15d2
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  e4534fe0-d4e4-4f8c-85a3-46beaa3d15d2  in  875.6882336139679 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  88cfd1b8-3361-404d-88cc-75180641c5d8
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  88cfd1b8-3361-404d-88cc-75180641c5d8  in  759.6303563117981 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  58775390-7cd5-4f7a-8dd8-be6eea55fe66
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  58775390-7cd5-4f7a-8dd8-be6eea55fe66  in  788.5990664958954 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  ce11c91d-ff75-4517-bb13-36228f3289c4
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  ce11c91d-ff75-4517-bb13-36228f3289c4  in  817.7610969543457 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  bf7155c3-8aac-4bc3-8a52-83366d8e8c0a
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  bf7155c3-8aac-4bc3-8a52-83366d8e8c0a  in  781.3699259757996 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  3bd6caf1-de21-45a4-979b-104d70322d71
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  3bd6caf1-de21-45a4-979b-104d70322d71  in  694.5471160411835 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  c744579f-b8cb-4cfc-8ba6-fa7cef86e0be
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  c744579f-b8cb-4cfc-8ba6-fa7cef86e0be  in  699.7986483573914 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  ee9e522c-261e-4969-976d-df0e673f1b57
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  ee9e522c-261e-4969-976d-df0e673f1b57  in  995.9433467388153 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  27718c7b-be5f-4e78-af6b-f754ac9ddd6e
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  27718c7b-be5f-4e78-af6b-f754ac9ddd6e  in  796.4745743274689 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  2d9a84fa-9edd-4169-b648-251c9db01d22
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  2d9a84fa-9edd-4169-b648-251c9db01d22  in  804.2051532268524 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  7a1a45f1-883f-4189-8753-5dfaf16c3d7d
+Predicting at position: 0
+Reached the end of the signal.
+Processed read  7a1a45f1-883f-4189-8753-5dfaf16c3d7d  in  80.05802273750305 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  de2f7362-3c80-4296-89f2-5c69aabdb960
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  de2f7362-3c80-4296-89f2-5c69aabdb960  in  777.3737254142761 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  7f020f62-eea0-4756-9d9a-fe0ae8d69745
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  7f020f62-eea0-4756-9d9a-fe0ae8d69745  in  782.1262419223785 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  f4619713-e04d-4b69-a861-947b8e623537
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  f4619713-e04d-4b69-a861-947b8e623537  in  1033.835578918457 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  4f33e983-5ff1-4ff6-840d-495acf23c59b
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  4f33e983-5ff1-4ff6-840d-495acf23c59b  in  782.1558666229248 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  d68b677f-a23c-4d11-b34e-3201b86d4b52
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  d68b677f-a23c-4d11-b34e-3201b86d4b52  in  1080.2259345054626 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  8082d694-5565-4747-9f9e-51885527c860
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+63805 63809
+Processed read  8082d694-5565-4747-9f9e-51885527c860  in  879.705885887146 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  6bfd97de-d0a9-43b8-bb6d-8c7d75a8bb0d
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  6bfd97de-d0a9-43b8-bb6d-8c7d75a8bb0d  in  773.2929484844208 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  d7ffd03a-e3e5-43f8-9b47-f82888c6e270
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  d7ffd03a-e3e5-43f8-9b47-f82888c6e270  in  881.1583278179169 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  2b9a9946-5c5b-4753-8e41-fbd3152be4be
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  2b9a9946-5c5b-4753-8e41-fbd3152be4be  in  746.6584777832031 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  4bb88e43-677b-4950-8e69-a37ea4af0193
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  4bb88e43-677b-4950-8e69-a37ea4af0193  in  793.9665780067444 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  9c7afc39-baa2-4eb6-a590-5a5d7bebba2e
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  9c7afc39-baa2-4eb6-a590-5a5d7bebba2e  in  839.7849497795105 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  c4753c1f-c54e-48e8-887c-73022dfb2ae6
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  c4753c1f-c54e-48e8-887c-73022dfb2ae6  in  803.3619091510773 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  fd01e490-64f1-4525-8d32-5725df99e652
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  fd01e490-64f1-4525-8d32-5725df99e652  in  814.3359570503235 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  dc8c91f7-bf93-4446-a879-b156314dd5ba
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  dc8c91f7-bf93-4446-a879-b156314dd5ba  in  1214.562099456787 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  0b857184-9418-400a-af90-d413dda00659
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  0b857184-9418-400a-af90-d413dda00659  in  1994.772850036621 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  3eb250bc-16d0-494a-98ef-483a6ba0aefb
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  3eb250bc-16d0-494a-98ef-483a6ba0aefb  in  1828.2071416378021 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  4d57f7d1-7878-4ecb-abab-14aa9bbcb0c2
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  4d57f7d1-7878-4ecb-abab-14aa9bbcb0c2  in  2226.7722623348236 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  5e4b2cc8-9df7-49ca-8385-dfd53f8f5182
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  5e4b2cc8-9df7-49ca-8385-dfd53f8f5182  in  1987.86598777771 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  5560c243-ab28-485e-a6fd-4c57a7eac5e3
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  5560c243-ab28-485e-a6fd-4c57a7eac5e3  in  1769.6176223754883 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  9ed97c75-5719-40af-92f3-aebd82dcfc2a
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  9ed97c75-5719-40af-92f3-aebd82dcfc2a  in  1804.7542526721954 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  a130314b-86cf-4ea7-bf21-217e2856dc2d
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  a130314b-86cf-4ea7-bf21-217e2856dc2d  in  2090.4902443885803 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  13a9a7ba-97f3-4da6-a681-9ee08c80dfd8
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  13a9a7ba-97f3-4da6-a681-9ee08c80dfd8  in  1386.3029346466064 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  4f6a659e-ae6a-424d-8af1-7b59e2ec0789
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  4f6a659e-ae6a-424d-8af1-7b59e2ec0789  in  731.1212766170502 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/chrom/modPredict/231024_AUA1_chrom_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Finished all analysis in  54683.50254201889 s.
+Device type:  cuda
+Predicting on region:  chrVI:114000-116000
+Start parsing bam file to get reads aligned to the region......
+done with bam file.
+Start parsing eventalign file to map signals to the list......
+10.0  M lines have passed.
+20.0  M lines have passed.
+30.0  M lines have passed.
+40.0  M lines have passed.
+50.0  M lines have passed.
+60.0  M lines have passed.
+70.0  M lines have passed.
+80.0  M lines have passed.
+90.0  M lines have passed.
+100.0  M lines have passed.
+110.0  M lines have passed.
+120.0  M lines have passed.
+130.0  M lines have passed.
+140.0  M lines have passed.
+150.0  M lines have passed.
+160.0  M lines have passed.
+170.0  M lines have passed.
+180.0  M lines have passed.
+190.0  M lines have passed.
+200.0  M lines have passed.
+14  reads left in readname list
+210.0  M lines have passed.
+13  reads left in readname list
+12  reads left in readname list
+11  reads left in readname list
+10  reads left in readname list
+9  reads left in readname list
+8  reads left in readname list
+7  reads left in readname list
+6  reads left in readname list
+5  reads left in readname list
+4  reads left in readname list
+3  reads left in readname list
+2  reads left in readname list
+220.0  M lines have passed.
+230.0  M lines have passed.
+240.0  M lines have passed.
+250.0  M lines have passed.
+260.0  M lines have passed.
+270.0  M lines have passed.
+280.0  M lines have passed.
+290.0  M lines have passed.
+300.0  M lines have passed.
+310.0  M lines have passed.
+320.0  M lines have passed.
+330.0  M lines have passed.
+340.0  M lines have passed.
+350.0  M lines have passed.
+360.0  M lines have passed.
+370.0  M lines have passed.
+380.0  M lines have passed.
+390.0  M lines have passed.
+400.0  M lines have passed.
+410.0  M lines have passed.
+420.0  M lines have passed.
+430.0  M lines have passed.
+440.0  M lines have passed.
+450.0  M lines have passed.
+460.0  M lines have passed.
+470.0  M lines have passed.
+done with reading eventalign file.
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000siganlAlign.tsv
+Start parsing sigalign file......
+Start processing  bde963ff-a423-4dc1-a4ff-a94327b8a39b
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  bde963ff-a423-4dc1-a4ff-a94327b8a39b  in  834.3868205547333 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  035eb2b4-2396-49da-ae80-b0f0b82ca454
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  035eb2b4-2396-49da-ae80-b0f0b82ca454  in  748.8531441688538 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  11f4f84c-6dd2-48ea-9214-1ba63e13f41c
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  11f4f84c-6dd2-48ea-9214-1ba63e13f41c  in  771.125759601593 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  2d666ba2-8686-42ac-a654-c2c9a08c4b7a
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  2d666ba2-8686-42ac-a654-c2c9a08c4b7a  in  780.3283388614655 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  52dda0b6-465b-4700-b569-6f96e0d9eaab
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  52dda0b6-465b-4700-b569-6f96e0d9eaab  in  831.2872931957245 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  d15bf39e-6476-45cb-9c35-195118a5158b
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  d15bf39e-6476-45cb-9c35-195118a5158b  in  778.7834327220917 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  d81f0b50-a5cb-4c69-a679-ac10eb5ca84b
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  d81f0b50-a5cb-4c69-a679-ac10eb5ca84b  in  828.4474296569824 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  93a12a46-a5a5-4657-b3f4-20626f377c44
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  93a12a46-a5a5-4657-b3f4-20626f377c44  in  654.9666128158569 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  54a3f07d-8c65-4a9e-a215-6f23659731bd
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  54a3f07d-8c65-4a9e-a215-6f23659731bd  in  841.0223288536072 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  e24881d9-515b-494d-8b01-57ad9c18d16e
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  e24881d9-515b-494d-8b01-57ad9c18d16e  in  912.4804899692535 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  87fd7252-420a-4717-8cd7-1409ad5a851d
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  87fd7252-420a-4717-8cd7-1409ad5a851d  in  833.7667264938354 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  2777f43c-7376-46a5-8bb5-7b5026076c58
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  2777f43c-7376-46a5-8bb5-7b5026076c58  in  784.715829372406 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  77d2285a-4118-4f40-bf2d-b7f853f59072
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  77d2285a-4118-4f40-bf2d-b7f853f59072  in  784.6408786773682 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_neg_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Finished all analysis in  12767.627659797668 s.
+Device type:  cuda
+Predicting on region:  chrVI:114000-116000
+Start parsing bam file to get reads aligned to the region......
+done with bam file.
+Start parsing eventalign file to map signals to the list......
+10.0  M lines have passed.
+20.0  M lines have passed.
+30.0  M lines have passed.
+40.0  M lines have passed.
+50.0  M lines have passed.
+60.0  M lines have passed.
+70.0  M lines have passed.
+80.0  M lines have passed.
+90.0  M lines have passed.
+100.0  M lines have passed.
+110.0  M lines have passed.
+120.0  M lines have passed.
+130.0  M lines have passed.
+7  reads left in readname list
+6  reads left in readname list
+5  reads left in readname list
+4  reads left in readname list
+3  reads left in readname list
+2  reads left in readname list
+140.0  M lines have passed.
+150.0  M lines have passed.
+160.0  M lines have passed.
+170.0  M lines have passed.
+180.0  M lines have passed.
+190.0  M lines have passed.
+200.0  M lines have passed.
+210.0  M lines have passed.
+220.0  M lines have passed.
+230.0  M lines have passed.
+240.0  M lines have passed.
+250.0  M lines have passed.
+260.0  M lines have passed.
+270.0  M lines have passed.
+280.0  M lines have passed.
+290.0  M lines have passed.
+300.0  M lines have passed.
+310.0  M lines have passed.
+320.0  M lines have passed.
+330.0  M lines have passed.
+340.0  M lines have passed.
+350.0  M lines have passed.
+360.0  M lines have passed.
+370.0  M lines have passed.
+380.0  M lines have passed.
+390.0  M lines have passed.
+400.0  M lines have passed.
+410.0  M lines have passed.
+done with reading eventalign file.
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_pos_meanScore_medianPos_chrVI:114000-116000siganlAlign.tsv
+Start parsing sigalign file......
+Start processing  7136eeb3-f9b7-4a96-8e4d-3947d69012c4
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  7136eeb3-f9b7-4a96-8e4d-3947d69012c4  in  918.3556835651398 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_pos_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  5c3983d0-ae80-4c7a-b64d-6b8aa555835e
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  5c3983d0-ae80-4c7a-b64d-6b8aa555835e  in  1051.9981207847595 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_pos_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  f49147a9-b632-4ccc-8fb2-f2f3dbebe8eb
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  f49147a9-b632-4ccc-8fb2-f2f3dbebe8eb  in  939.7964396476746 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_pos_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  471e6c13-1582-478f-9eef-233d7f352665
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  471e6c13-1582-478f-9eef-233d7f352665  in  1015.5948972702026 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_pos_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  424ac883-1dca-47fc-83b2-5baca6da693c
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  424ac883-1dca-47fc-83b2-5baca6da693c  in  933.9817469120026 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_pos_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Start processing  d71840e0-de98-42c9-85e7-b4fab13871e3
+Predicting at position: 0
+Predicting at position: 500
+Predicting at position: 1000
+Predicting at position: 1500
+Processed read  d71840e0-de98-42c9-85e7-b4fab13871e3  in  921.5751466751099 s
+Output signalAlign file saved in:
+ /private/groups/brookslab/gabai/projects/Add-seq/data/ctrl/modPredict/231024_AUA1_pos_meanScore_medianPos_chrVI:114000-116000modScores.tsv
+Finished all analysis in  7828.4912049770355 s.
