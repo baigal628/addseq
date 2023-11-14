@@ -7,9 +7,9 @@ from bamUtil import *
 
 bam = '/private/groups/brookslab/gabai/projects/Add-seq/data/chrom/mapping/chrom.sorted.bam'
 genome = '/private/groups/brookslab/gabai/projects/Add-seq/data/ref/sacCer3.fa'
-chrII_evt = '/data/scratch/gabai/addseq_data/eventalign/chrII.eventalign.txt'
+chrVI_evt = '/data/scratch/gabai/addseq_data/eventalign/chrVI.eventalign.txt'
 
-chrII_sig= '/data/scratch/gabai/addseq_data/eventalign/chrII.sig.tsv'
+chrVI_sig= '/data/scratch/gabai/addseq_data/eventalign/chrVI.sig.tsv'
 
-chrII_alignment, chrom, qStart, qEnd = getAlignedReads(bam, region = 'chrII', genome = genome)
-parseEventAlign(eventAlign = chrII_evt, alignment = chrII_alignment, outfile =chrII_sig)
+chrVI_alignment, chrom, qStart, qEnd = getAlignedReads(bam, region = 'chrVI', genome = genome)
+parseEventAlign(eventAlign = chrVI_evt, alignment = chrVI_alignment, outfile =chrVI_sig)

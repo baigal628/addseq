@@ -38,6 +38,7 @@ method = 'median'
 models = {
             'resnet1D':resnet1D
             }
+
 mymodel = models['resnet1D']
 myweight =  '/private/groups/brookslab/gabai/tools/seqUtils/src/nanopore_classification/best_models/addseq_resnet1d.pt'
 
@@ -77,8 +78,7 @@ def nucPredict(readID, eventStart, sigList, sigLenList, pStart, bins, refSeq, km
     return binScores, binCounts
 
 def process_read(worker_input):
-    (readID, eventStart, sigList, sigLenList, pStart, bins, refSeq, 
-     kmerWindow, signalWindow, threshold, device, model, weight) = worker_input
+    (readID, eventStart, sigList, sigLenList, pStart, bins, refSeq, kmerWindow, signalWindow, threshold, device, model, weight) = worker_input
     
     binScores, binCounts = nucPredict(readID, eventStart, sigList, sigLenList, pStart, bins, refSeq, kmerWindow, signalWindow, threshold, device, model, weight)
 
